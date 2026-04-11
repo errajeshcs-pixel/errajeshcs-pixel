@@ -1,4 +1,4 @@
-# Hello! I am Rajesh Kumar Singh, an Independent Researcher , Data Architect and Technology Leader with over 20 years of IT experience, specializing in data architecture, cloud data engineering and enterprise data platforms.
+# Hello! I am Rajesh Kumar Singh, an Independent Researcher ,Mentor , Data Architect and Technology Leader with over 20 years of IT experience, specializing in data architecture, cloud data engineering and enterprise data platforms.
 
 ## I hold an Master of Technology (M.Tech) degree in Data Science & Engineering from Birla Institute of Technology & Science (BITS), Pilani, which strengthens my expertise in data architecture and analytics, machine learning and modern data-driven solutions.
 
