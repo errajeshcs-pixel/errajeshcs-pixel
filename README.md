@@ -9,14 +9,14 @@ I have extensive experience designing and delivering scalable, secure, and high-
 
 # My core expertise includes:
 
-Data Architecture & Data Modelling (Conceptual, Logical, Physical, Dimensional, OLTP/OLAP)
-Cloud Platforms: Azure, Databricks, Snowflake, AWS
-Data Engineering: Python, PySpark, Kafka, ADF, SSIS
-Databases: Oracle, SQL Server, MySQL, MongoDB, Cassandra
-Data Warehousing & Lakehouse: Medallion Architecture, Star/Snowflake Schema
-Data Governance, Security & Compliance
-Performance Tuning & Cost Optimisation
-Business Intelligence & Visualisation: Tableau, Power BI
+**Data Architecture & Data Modelling** (Conceptual, Logical, Physical, Dimensional, OLTP/OLAP)
+**Cloud Platforms:** Azure, Databricks, Snowflake, AWS
+**Data Engineering:** Python, PySpark, Kafka, ADF, SSIS
+**Databases:** Oracle, SQL Server, MySQL, MongoDB, Cassandra
+**Data Warehousing & Lakehouse:** Medallion Architecture, Star/Snowflake Schema
+**Data Governance, Security & Compliance**
+**Performance Tuning & Cost Optimisation**
+**Business Intelligence & Visualisation:** Tableau, Power BI
 
 Throughout my career, I have led end-to-end data platform implementations, including cloud migrations, legacy modernization, and enterprise data governance frameworks, ensuring high data quality, scalability, and alignment with business goals.I am also a Microsoft , Aure , Databrciks and PMP® certified professional, with strong experience in leading cross-functional teams, driving delivery excellence, and aligning technology solutions with business objectives.
 
@@ -25,8 +25,8 @@ Throughout my career, I have led end-to-end data platform implementations, inclu
 - Enabled **AI & analytics adoption across enterprises** - Delivered solutions across **multiple industries and geographies**
   
 ## 🌍 Thought Leadership & Community
-- Sharing knowledge through **open-source projects and GitHub**- Mentoring professionals in **data engineering & architecture**- Preparing for **speaking engagements & industry contributions**
-  
+- Sharing knowledge through **open-source projects and GitHub**- Mentoring professionals in **data engineering & architecture**- Preparing for **peaking engagements and contributing to industry thought leadership**
+
 # 📚 Research & Publications
 Focus: #  Data Platforms, AI, and Applied Analytics    # (Add Google Scholar / articles link )
 
