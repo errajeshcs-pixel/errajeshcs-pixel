@@ -1,4 +1,3 @@
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2F80ED&size=22&lines=Data/Solution+Architect;Cloud+%26+Technology+Leader;20%2B+Years+in+Data+Platforms;Driving+Data-led+Transformation;Independent%20Researcher%20+and+Mentor)
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2F80ED&size=22&width=900&lines=Rajesh+Kumar+Singh;Independent+Researcher+%7C+Mentor;Data+Architect+%7C+Technology+Leader;20%2B+Years+in+Enterprise+Data+Platforms)
 <h1 style="color:#2f80ed;"><i>
 Hello! I am Rajesh Kumar Singh, an Independent Researcher ,Mentor , Data Architect and Technology Leader with over 20 years of IT experience, specializing in data architecture, cloud data engineering and enterprise data platforms.
