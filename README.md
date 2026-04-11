@@ -7,13 +7,21 @@ I have extensive experience designing and delivering scalable, secure, and high-
 # My core expertise includes:
 
 Data Architecture & Data Modelling (Conceptual, Logical, Physical, Dimensional, OLTP/OLAP)
+
 Cloud Platforms: Azure, Databricks, Snowflake, AWS
+
 Data Engineering: Python, PySpark, Kafka, ADF, SSIS
+
 Databases: Oracle, SQL Server, MySQL, MongoDB, Cassandra
+
 Data Warehousing & Lakehouse: Medallion Architecture, Star/Snowflake Schema
+
 Data Governance, Security & Compliance
+
 Performance Tuning & Cost Optimisation
+
 Business Intelligence & Visualisation: Tableau, Power BI
+
 
 Throughout my career, I have led end-to-end data platform implementations, including cloud migrations, legacy modernization, and enterprise data governance frameworks, ensuring high data quality, scalability, and alignment with business goals.
 
