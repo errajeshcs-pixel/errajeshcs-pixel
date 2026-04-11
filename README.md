@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hello! I am Rajesh Kumar Singh, a Data Architect and Technology Leader with over 20 years of IT experience, specializing in data architecture, cloud data engineering, and enterprise data platforms.
 
-<!--
-**errajeshcs-pixel/errajeshcs-pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I hold an M.Tech in Data Science & Engineering from Birla Institute of Technology & Science (BITS), Pilani, which strengthens my expertise in data analytics, machine learning, and modern data-driven solutions.
 
-Here are some ideas to get you started:
+I have extensive experience designing and delivering scalable, secure, and high-performance data solutions across industries including Banking, Retail, Aviation, Energy, and Public Sector. Currently, I work as a Data/Solution Architect, leading large-scale cloud transformation and data modernization initiatives.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My core expertise includes:
+
+Data Architecture & Data Modelling (Conceptual, Logical, Physical, Dimensional, OLTP/OLAP)
+Cloud Platforms: Azure, Databricks, Snowflake, AWS
+Data Engineering: Python, PySpark, Kafka, ADF, SSIS
+Databases: Oracle, SQL Server, MySQL, MongoDB, Cassandra
+Data Warehousing & Lakehouse: Medallion Architecture, Star/Snowflake Schema
+Data Governance, Security & Compliance
+Performance Tuning & Cost Optimisation
+Business Intelligence & Visualisation: Tableau, Power BI
+
+Throughout my career, I have led end-to-end data platform implementations, including cloud migrations, legacy modernization, and enterprise data governance frameworks, ensuring high data quality, scalability, and alignment with business goals.
+
+I am also a Microsoft , Aure , Databrciks and PMP® certified professional, with strong experience in leading cross-functional teams, driving delivery excellence, and aligning technology solutions with business objectives.
+
+If my work or repositories are helpful, feel free to support me — your encouragement is always appreciated.
