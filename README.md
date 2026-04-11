@@ -19,4 +19,4 @@ Throughout my career, I have led end-to-end data platform implementations, inclu
 
 I am also a Microsoft , Aure , Databrciks and PMP® certified professional, with strong experience in leading cross-functional teams, driving delivery excellence, and aligning technology solutions with business objectives.
 
-If my work or repositories are helpful, feel free to support me — your encouragement is always appreciated.
+If my work or repositories are helpful, feel free to support me , your encouragement is always appreciated.
