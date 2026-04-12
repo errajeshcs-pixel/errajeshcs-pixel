@@ -5,7 +5,7 @@ Hello! I am Rajesh Kumar Singh, an Independent Researcher ,Mentor , Data Archite
 
 ### Master of Technology (M.Tech) degree in Data Science & Engineering from Birla Institute of Technology & Science (BITS), Pilani, which strengthens my expertise in data architecture and analytics, machine learning and modern data-driven solutions. I have extensive experience designing and delivering scalable, secure, and high-performance data solutions across industries including Banking, Retail, Aviation, Energy, and Public Sector. Currently, I work as a Data/Solution Architect, leading large-scale cloud transformation and data modernization initiatives.
 
-# My core expertise includes:
+## My core expertise includes:
 
 **Data Architecture & Data Modelling** (Conceptual, Logical, Physical, Dimensional, OLTP/OLAP)
 **Cloud Platforms:** Azure, Databricks, Snowflake, AWS
