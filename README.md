@@ -16,7 +16,8 @@ Hello! I am Rajesh Kumar Singh, an Independent Researcher ,Mentor , Data Archite
 **Performance Tuning & Cost Optimisation**
 **Business Intelligence & Visualisation:** Tableau, Power BI
 
-Throughout my career, I have led end-to-end data platform implementations, including cloud migrations, legacy modernization, and enterprise data governance frameworks, ensuring high data quality, scalability, and alignment with business goals.I am also a Microsoft , Aure , Databrciks and PMP® certified professional, with strong experience in leading cross-functional teams, driving delivery excellence, and aligning technology solutions with business objectives.
+Throughout my career, I have led end-to-end data platform implementations, including cloud migrations, legacy modernization, and enterprise data governance frameworks, ensuring high data quality, scalability, and alignment with business goals.
+I am also a Microsoft , Aure , Databrciks and PMP® certified professional, with strong experience in leading cross-functional teams, driving delivery excellence, and aligning technology solutions with business objectives.
 
 ## 🏆 Key Impact
 - Led **large-scale cloud transformation programmes** - Built **high-performance, scalable data platforms**
@@ -26,7 +27,7 @@ Throughout my career, I have led end-to-end data platform implementations, inclu
 - Sharing knowledge through **open-source projects and GitHub**- Mentoring professionals in **data engineering & architecture**- Preparing for **peaking engagements and contributing to industry thought leadership**
 
 # 📚 Research & Publications
-Focus: #  Data Platforms, AI, and Applied Analytics    # (Add Google Scholar / articles link )
+Focus: #  Data Platforms, AI and Applied Analytics    # (Add Google Scholar / articles link )
 
 # 🤝 Collaboration & Opportunities
 Open to: <Speaking engagements> <Mentoring >  < Collaboration on data, AI and climate tech projects >
