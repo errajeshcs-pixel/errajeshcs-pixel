@@ -31,7 +31,115 @@ Focus: #  Data Platforms, AI and Applied Analytics    # (Add Google Scholar / ar
 
 # 🤝 Collaboration & Opportunities
 Open to: <Speaking engagements> <Mentoring >  < Collaboration on data, AI and climate tech projects >
+<table>
+<tr>
+<td align="center" width="25%">
 
+### ⚡ Design Pipelines
+Cloud-native, scalable & resilient systems
+
+</td>
+<td align="center" width="25%">
+
+### 🤖 AI Optimization
+ML-driven pipeline performance tuning
+
+</td>
+<td align="center" width="25%">
+
+### ☁️ Azure & Databricks
+Enterprise cloud architecture solutions
+
+</td>
+<td align="center" width="25%">
+
+### 📊 Analytics Platforms
+High-performance data systems
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### ⏱️ 30% Faster
+Reduced pipeline execution time
+
+</td>
+<td align="center">
+
+### 💰 Cost Optimization
+Smart scheduling & resource usage
+
+</td>
+<td align="center">
+
+### 📦 TB-Scale Systems
+Handles massive data workloads
+
+</td>
+<td align="center">
+
+### 🚀 Transformation
+Enterprise data modernization
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 🔬 AI Pipeline Project
+End-to-end ML optimization framework
+
+</td>
+<td align="center">
+
+### ⚠️ Failure Prediction
+Detects issues before failure
+
+</td>
+<td align="center">
+
+### ⏳ Smart Scheduling
+Dynamic resource allocation
+
+</td>
+<td align="center">
+
+### 📈 +25% Reliability
+Improved pipeline stability
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 📚 Research
+AI in Data Engineering
+
+</td>
+<td align="center">
+
+### 📝 Publication (2026)
+Pipeline Optimization using ML
+
+</td>
+<td align="center">
+
+### 🛠️ Tech Stack
+Python | SQL | PySpark
+
+</td>
+<td align="center">
+
+### ☁️ Tools
+Azure | Databricks | Power BI
+
+</td>
+</tr>
+</table>
 # Support My Work
 
 If my work or repositories are helpful, feel free to support me , your encouragement is always appreciated.
