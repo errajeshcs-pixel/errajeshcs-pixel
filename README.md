@@ -31,6 +31,10 @@ Focus: #  Data Platforms, AI and Applied Analytics    # (Add Google Scholar / ar
 
 # 🤝 Collaboration & Opportunities
 Open to: <Speaking engagements> <Mentoring >  < Collaboration on data, AI and climate tech projects >
+![Azure](https://img.shields.io/badge/Azure-Expert-blue)
+![Databricks](https://img.shields.io/badge/Databricks-Pro-orange)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=errajeshcs-pixel)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=errajeshcs-pixel)
 <table>
 <tr>
 <td align="center" width="25%">
