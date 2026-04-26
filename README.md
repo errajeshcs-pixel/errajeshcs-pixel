@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/Azure%20%7C%20Databricks-Advanced-purple?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/AI%20%26%20ML-Production-green?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Python%20%7C%20Pyspark-Expert-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/.Net%20%7C%20C#-App Dev-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/.NET%20%7C%20C%23-App%20Development%20%7C%20Intermediate-blue?style=for-the-badge"/>
 </p>
 <h3>Thought Leadership & Community</h3>
 <p align="center">
@@ -38,6 +38,20 @@
 <img src="https://img.shields.io/badge/Publications-View%20Work-black?style=for-the-badge"/>
 </a>
 </p>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Industries-Banking%20to%20Public%20Sector-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Global-India%20%7C%20US%20%7C%20UK%20%7C%20Europe%20%7C%20China-black?style=for-the-badge"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Microsoft-Certified-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Azure-Certified-0078D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Oracle-Certified-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Databricks-Certified-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MongoDB-Certified-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PMP-Project%20Management-black?style=for-the-badge"/>
 </p>
 
 ## My core expertise includes:
