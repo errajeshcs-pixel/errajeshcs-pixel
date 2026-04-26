@@ -6,7 +6,7 @@
 <p align="center">
 20+ years in Data Architecture, Cloud Engineering & Enterprise Platforms  
 </p>
-## ⚡ Core Expertise
+⚡ Core Expertise
 
 <p align="center">
 <img src="https://img.shields.io/badge/Data%20Architecture-Expert-blue?style=for-the-badge"/>
