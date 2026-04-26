@@ -1,7 +1,4 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2F80ED&size=22&width=900&lines=Independent+Researcher+%7C+Mentor;Data+Architect+%7C+Technology+Leader;20%2B+Years+in+Enterprise+Data+Platforms;Master%20of%20Technology%20(M.Tech)%20in%20Data%20Science%20from%20BITS,%20Pilani)
-<h1 style="color:#2f80ed;"><i>
-Hello! I am Rajesh Kumar Singh, an Independent Researcher ,Mentor , Data Architect and Technology Leader with over 20 years of IT experience, specializing in data architecture, cloud data engineering and enterprise data platforms.
-</i></h1> 
 
 # Master of Technology (M.Tech) degree in Data Science & Engineering from Birla Institute of Technology & Science (BITS), Pilani, which strengthens my expertise in data architecture and analytics, machine learning and modern data-driven solutions. I have extensive experience designing and delivering scalable, secure, and high-performance data solutions across industries including Banking, Retail, Aviation, Energy, and Public Sector. Currently, I work as a Data/Solution Architect, leading large-scale cloud transformation and data modernization initiatives.
 
@@ -15,7 +12,8 @@ Hello! I am Rajesh Kumar Singh, an Independent Researcher ,Mentor , Data Archite
 **Data Governance, Security & Compliance**
 **Performance Tuning & Cost Optimisation**
 **Business Intelligence & Visualisation:** Tableau, Power BI
-
+industries :Banking,Audit, Retail, Aviation, Energy and Public Sector
+Multi National work Exp: India ,US, UK , China  and europe. 
 Throughout my career, I have led end-to-end data platform implementations, including cloud migrations, legacy modernization, and enterprise data governance frameworks, ensuring high data quality, scalability, and alignment with business goals.
 I am also a Microsoft , Aure , Databrciks and PMP® certified professional, with strong experience in leading cross-functional teams, driving delivery excellence, and aligning technology solutions with business objectives.
 
