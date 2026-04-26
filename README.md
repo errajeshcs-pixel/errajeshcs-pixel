@@ -24,15 +24,13 @@
 <tr>
 <td align="center" width="25%">
 
-<h3>Certifications</h3>
+<h3>Key Impact</h3>
 <p align="center">
-<img src="https://img.shields.io/badge/Microsoft-Certified-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Azure-Certified-0078D4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Oracle-Certified-red?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Databricks-Certified-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MongoDB-Certified-green?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PMP-Project%20Management-black?style=for-the-badge"/>
-</p>
+<img src="https://img.shields.io/badge/Cloud-Transformation%20Leader-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Platforms-Scalable%20%26%20High%20Performance-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20%26%20Analytics-Enterprise%20Adoption-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Industries-Banking%20Audit%20Aviation%20Public%20Sector-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Global-India%20%7C%20US%20%7C%20UK%20%7C%20Europe%20%7C%20China-black?style=for-the-badge"/>
 
 </td>
 <td align="center" width="25%">
@@ -52,14 +50,17 @@
 <tr>
 <td align="center" width="25%">
 
-<h3>Key Impact</h3>
-<p align="center">
-<img src="https://img.shields.io/badge/Cloud-Transformation%20Leader-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data%20Platforms-Scalable%20%26%20High%20Performance-green?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI%20%26%20Analytics-Enterprise%20Adoption-purple?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Industries-Banking%20Audit%20Aviation%20Public%20Sector-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Global-India%20%7C%20US%20%7C%20UK%20%7C%20Europe%20%7C%20China-black?style=for-the-badge"/>
 
+
+<h3>Certifications</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/Microsoft-Certified-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Azure-Certified-0078D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Oracle-Certified-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Databricks-Certified-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MongoDB-Certified-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PMP-Project%20Management-black?style=for-the-badge"/>
+</p>
 </td>
 <td align="center" width="25%">
 
