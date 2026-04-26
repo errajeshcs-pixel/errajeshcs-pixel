@@ -22,6 +22,20 @@
 <img src="https://img.shields.io/badge/Speaking-Engagements-blue?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Mentoring-Professionals-green?style=for-the-badge"/>
 </p>
+<h3>Key Impacts</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/Cloud-Transformation%20Leader-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Platforms-Scalable%20%26%20High%20Performance-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20%26%20Analytics-Enterprise%20Adoption-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Global%20Delivery-Multi--Industry%20Impact-black?style=for-the-badge"/>
+<p align="center">
+<img src="https://img.shields.io/badge/Research-Data%20Platforms-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI-Applied%20Analytics-green?style=for-the-badge"/>
+<a href="YOUR_LINK_HERE">
+<img src="https://img.shields.io/badge/Publications-View%20Work-black?style=for-the-badge"/>
+</a>
+</p>
+</p>
 
 ## My core expertise includes:
 
@@ -38,16 +52,10 @@ Multi National work Exp: India ,US, UK , China  and europe.
 Throughout my career, I have led end-to-end data platform implementations, including cloud migrations, legacy modernization, and enterprise data governance frameworks, ensuring high data quality, scalability, and alignment with business goals.
 I am also a Microsoft , Aure , Databrciks and PMP® certified professional, with strong experience in leading cross-functional teams, driving delivery excellence, and aligning technology solutions with business objectives.
 
-## 🏆 Key Impact
-- Led **large-scale cloud transformation programmes** - Built **high-performance, scalable data platforms**
-- Enabled **AI & analytics adoption across enterprises** - Delivered solutions across **multiple industries and geographies**
-  
 
 # 📚 Research & Publications
 Focus: #  Data Platforms, AI and Applied Analytics    # (Add Google Scholar / articles link )
 
-# 🤝 Collaboration & Opportunities
-Open to: <Speaking engagements> <Mentoring >  < Collaboration on data, AI and climate tech projects >
 ![Azure](https://img.shields.io/badge/Azure-Expert-blue)
 ![Databricks](https://img.shields.io/badge/Databricks-Pro-orange)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=errajeshcs-pixel)
