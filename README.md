@@ -84,12 +84,12 @@
 <td align="center" width="25%">
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=errajeshcs-pixel&show_icons=true&hide=contribs&theme=material-palenight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=errajeshcs-pixel&show_icons=true&hide=contribs&theme=radical)
 </td>
 <td align="center" width="25%">
 
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=errajeshcs-pixel&show_icons=true&theme=material-palenight)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=errajeshcs-pixel&show_icons=true&theme=radical)
 
 
 </td>
