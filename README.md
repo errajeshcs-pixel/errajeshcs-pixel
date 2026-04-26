@@ -14,18 +14,6 @@
 <img src="https://img.shields.io/badge/AI%20%26%20ML-Production-green?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Data%20Engineering-Scalable-orange?style=for-the-badge"/>
 </p>
----
-
-## About Me
-- 🎓 M.Tech in Data Science & Engineering — BITS Pilani  
-- ☁️ Specializing in **Azure, Databricks, Cloud Data Platforms**  
-- 🤖 Passionate about **AI/ML-driven analytics & optimization**  
-- 🏢 Worked across Banking, Retail, Aviation, Energy & Public Sector  
-- 🚀 Currently leading **large-scale cloud transformation initiatives**
-
----
-
-
 
 ## My core expertise includes:
 
