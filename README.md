@@ -103,13 +103,13 @@
 <tr>
 <td align="center" width="25%">
 
-### ⚡ Design Pipelines
+###  Design Pipelines
 Cloud-native, scalable & resilient systems
 
 </td>
 <td align="center" width="25%">
 
-### 🤖 AI Optimization
+### AI Optimization
 ML-driven pipeline performance tuning
 
 </td>
@@ -121,7 +121,7 @@ Enterprise cloud architecture solutions
 </td>
 <td align="center" width="25%">
 
-### 📊 Analytics Platforms
+###  Analytics Platforms
 High-performance data systems
 
 </td>
@@ -130,25 +130,25 @@ High-performance data systems
 <tr>
 <td align="center">
 
-### ⏱️ 30% Faster
+###  30% Faster
 Reduced pipeline execution time
 
 </td>
 <td align="center">
 
-### 💰 Cost Optimization
+###  Cost Optimization
 Smart scheduling & resource usage
 
 </td>
 <td align="center">
 
-### 📦 TB-Scale Systems
+###  TB-Scale Systems
 Handles massive data workloads
 
 </td>
 <td align="center">
 
-### 🚀 Transformation
+###  Transformation
 Enterprise data modernization
 
 </td>
@@ -157,25 +157,25 @@ Enterprise data modernization
 <tr>
 <td align="center">
 
-### 🔬 AI Pipeline Project
+### AI Pipeline Project
 End-to-end ML optimization framework
 
 </td>
 <td align="center">
 
-### ⚠️ Failure Prediction
+###  Failure Prediction
 Detects issues before failure
 
 </td>
 <td align="center">
 
-### ⏳ Smart Scheduling
+###  Smart Scheduling
 Dynamic resource allocation
 
 </td>
 <td align="center">
 
-### 📈 +25% Reliability
+### +25% Reliability
 Improved pipeline stability
 
 </td>
