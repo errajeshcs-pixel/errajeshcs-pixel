@@ -63,16 +63,6 @@ Open to: <Speaking engagements> <Mentoring >  < Collaboration on data, AI and cl
 <img src="https://img.shields.io/badge/Data%20Engineering-Scalable-orange?style=for-the-badge"/>
 </p>
 
----
-
-## 🧩 What I Do
-
-```diff
-+ Design cloud-native data pipelines
-+ Build AI-driven optimization systems
-+ Architect enterprise-scale data platforms
-+ Deliver high-performance analytics solutions
-
 <table>
 <tr>
 <td align="center" width="25%">
