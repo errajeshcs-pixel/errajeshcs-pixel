@@ -1,15 +1,15 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2F80ED&size=22&width=900&lines=Independent+Researcher+%7C+Mentor;Data+Architect+%7C+Technology+Leader;20%2B+Years+in+Enterprise+Data+Platforms;Master%20of%20Technology%20(M.Tech)%20in%20Data%20Science%20from%20BITS,%20Pilani)
 
-<h1 align="center">👋 Hi, I'm Rajesh Kumar Singh</h1>
+<h1 align="center"> Hi, I'm Rajesh Kumar Singh</h1>
 <h3 align="center">Independent Researcher | Mentor | Data Architect</h3>
 
 <p align="center">
-💡 20+ years in Data Architecture, Cloud Engineering & Enterprise Platforms  
+20+ years in Data Architecture, Cloud Engineering & Enterprise Platforms  
 </p>
 
 ---
 
-## 🧠 About Me
+## About Me
 - 🎓 M.Tech in Data Science & Engineering — BITS Pilani  
 - ☁️ Specializing in **Azure, Databricks, Cloud Data Platforms**  
 - 🤖 Passionate about **AI/ML-driven analytics & optimization**  
