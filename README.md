@@ -51,6 +51,50 @@
 <img src="https://img.shields.io/badge/MongoDB-Certified-green?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/PMP-Project%20Management-black?style=for-the-badge"/>
 </p>
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+<h3>certification</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/Microsoft-Certified-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Azure-Certified-0078D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Oracle-Certified-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Databricks-Certified-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MongoDB-Certified-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PMP-Project%20Management-black?style=for-the-badge"/>
+</p>
+
+</td>
+<td align="center" width="25%">
+
+### 🤖 AI Optimization
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=errajeshcs-pixel)
+
+
+</td>
+</tr>
+<tr>
+<td align="center" width="25%">
+
+### ⚡ Design Pipelines
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=errajeshcs-pixel)
+
+</td>
+<td align="center" width="25%">
+
+### 🤖 AI Optimization
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=errajeshcs-pixel)
+
+
+</td>
+</tr>
+
+<table>
+
+
+
 <table>
 <tr>
 <td align="center" width="25%">
@@ -153,32 +197,7 @@ Improved pipeline stability
 </td>
 </tr>
 
-<tr>
-<td align="center">
 
-### 📚 Research
-AI in Data Engineering
-
-</td>
-<td align="center">
-
-### 📝 Publication (2026)
-Pipeline Optimization using ML
-
-</td>
-<td align="center">
-
-### 🛠️ Tech Stack
-Python | SQL | PySpark
-
-</td>
-<td align="center">
-
-### ☁️ Tools
-Azure | Databricks | Power BI
-
-</td>
-</tr>
 </table>
 # Support My Work
 
