@@ -13,8 +13,8 @@
   <img src="https://img.shields.io/badge/Data%20Engineering-Scalable-orange?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Azure%20%7C%20Databricks-Advanced-purple?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/AI%20%26%20ML-Production-green?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Python%20Pyspark-Scalable-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/.Net%20C#-App Dev--blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Python%20%7C%20Pyspark-Expert-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/.Net%20%7C%20C#-App Dev-blue?style=for-the-badge"/>
 </p>
 <h3>Thought Leadership & Community</h3>
 <p align="center">
