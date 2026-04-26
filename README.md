@@ -89,7 +89,7 @@
 <td align="center" width="25%">
 
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=errajeshcs-pixel)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=errajeshcs-pixel&show_icons=true&theme=tokyonight)
 
 
 </td>
