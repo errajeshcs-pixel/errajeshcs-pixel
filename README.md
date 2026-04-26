@@ -19,6 +19,8 @@
 <img src="https://img.shields.io/badge/Open%20Source-Contributor-black?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Research-Active-blue?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Mentorship-Universities%20%26%20Talent-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Speaking-Engagements-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Mentoring-Professionals-green?style=for-the-badge"/>
 </p>
 
 ## My core expertise includes:
@@ -40,8 +42,6 @@ I am also a Microsoft , Aure , Databrciks and PMP® certified professional, with
 - Led **large-scale cloud transformation programmes** - Built **high-performance, scalable data platforms**
 - Enabled **AI & analytics adoption across enterprises** - Delivered solutions across **multiple industries and geographies**
   
-## 🌍 Thought Leadership & Community
-- Sharing knowledge through **open-source projects and GitHub**- Mentoring professionals in **data engineering & architecture**- Preparing for **peaking engagements and contributing to industry thought leadership**
 
 # 📚 Research & Publications
 Focus: #  Data Platforms, AI and Applied Analytics    # (Add Google Scholar / articles link )
