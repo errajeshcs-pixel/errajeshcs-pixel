@@ -83,13 +83,13 @@
 <tr>
 <td align="center" width="25%">
 
-### ⚡ Design Pipelines
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=errajeshcs-pixel)
 
 </td>
 <td align="center" width="25%">
 
-### 🤖 AI Optimization
+
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=errajeshcs-pixel)
 
 
