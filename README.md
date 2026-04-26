@@ -17,40 +17,8 @@
 <img src="https://img.shields.io/badge/.NET%20%7C%20C%23-Intermediate%20-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/SQL%20%7C%20PL%2FSQL%20%7C%20T--SQL%20%7C%20Performance%20Tuning-Expert-blue?style=for-the-badge"/>
 </p>
-<h3>Thought Leadership & Community</h3>
-<p align="center">
-<img src="https://img.shields.io/badge/Open%20Source-Contributor-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Research-Active-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Mentorship-Universities%20%26%20Talent-green?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Speaking-Engagements-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Mentoring-Professionals-orange?style=for-the-badge"/>
-</p>
-<h3>Key Impacts</h3>
-<p align="center">
-<img src="https://img.shields.io/badge/Cloud-Transformation%20Leader-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data%20Platforms-Scalable%20%26%20High%20Performance-green?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI%20%26%20Analytics-Enterprise%20Adoption-purple?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Global%20Delivery-Multi--Industry%20Impact-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Industries-Banking%20Audit%20Aviation%20Public%20Sector-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Global-India%20%7C%20US%20%7C%20UK%20%7C%20Europe%20%7C%20China-black?style=for-the-badge"/>
-<h3>Research & Publications</h3>
-<p align="center">
-<img src="https://img.shields.io/badge/Research-Data%20Platforms-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI-Applied%20Analytics-green?style=for-the-badge"/>
-<a href="YOUR_LINK_HERE">
-<img src="https://img.shields.io/badge/Publications-View%20Work-black?style=for-the-badge"/>
-</a>
-</p>
-</p>
-<h3>certification</h3>
-<p align="center">
-<img src="https://img.shields.io/badge/Microsoft-Certified-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Azure-Certified-0078D4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Oracle-Certified-red?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Databricks-Certified-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MongoDB-Certified-green?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PMP-Project%20Management-black?style=for-the-badge"/>
-</p>
+
+
 
 <table>
 <tr>
@@ -69,8 +37,14 @@
 </td>
 <td align="center" width="25%">
 
-### 🤖 AI Optimization
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=errajeshcs-pixel)
+<h3>Thought Leadership & Community</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Research-Active-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Mentorship-Universities%20%26%20Talent-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Speaking-Engagements-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Mentoring-Professionals-orange?style=for-the-badge"/>
+</p>
 
 
 </td>
@@ -78,15 +52,26 @@
 <tr>
 <td align="center" width="25%">
 
-### ⚡ Design Pipelines
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=errajeshcs-pixel)
+<h3>Key Impacts</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/Cloud-Transformation%20Leader-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Platforms-Scalable%20%26%20High%20Performance-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20%26%20Analytics-Enterprise%20Adoption-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Global%20Delivery-Multi--Industry%20Impact-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Industries-Banking%20Audit%20Aviation%20Public%20Sector-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Global-India%20%7C%20US%20%7C%20UK%20%7C%20Europe%20%7C%20China-black?style=for-the-badge"/>
 
 </td>
 <td align="center" width="25%">
 
-### 🤖 AI Optimization
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=errajeshcs-pixel)
-
+<h3>Research & Publications</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/Research-Data%20Platforms-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI-Applied%20Analytics-green?style=for-the-badge"/>
+<a href="YOUR_LINK_HERE">
+<img src="https://img.shields.io/badge/Publications-View%20Work-black?style=for-the-badge"/>
+</a>
+</p>
 
 </td>
 </tr>
