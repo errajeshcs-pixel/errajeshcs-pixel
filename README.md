@@ -14,6 +14,12 @@
 <img src="https://img.shields.io/badge/AI%20%26%20ML-Production-green?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Data%20Engineering-Scalable-orange?style=for-the-badge"/>
 </p>
+<h3>Thought Leadership & Community</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Research-Active-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Mentorship-Universities%20%26%20Talent-green?style=for-the-badge"/>
+</p>
 
 ## My core expertise includes:
 
