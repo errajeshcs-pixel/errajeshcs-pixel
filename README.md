@@ -84,8 +84,7 @@
 <td align="center" width="25%">
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=errajeshcs-pixel)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=errajeshcs-pixel&show_icons=true&hide=contribs&theme=tokyonight)
 </td>
 <td align="center" width="25%">
 
