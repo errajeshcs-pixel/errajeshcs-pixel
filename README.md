@@ -30,6 +30,8 @@
 <img src="https://img.shields.io/badge/Data%20Platforms-Scalable%20%26%20High%20Performance-green?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/AI%20%26%20Analytics-Enterprise%20Adoption-purple?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Global%20Delivery-Multi--Industry%20Impact-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Industries-Banking%20Audit%20Aviation%20Public%20Sector-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Global-India%20%7C%20US%20%7C%20UK%20%7C%20Europe%20%7C%20China-black?style=for-the-badge"/>
 <h3>Research & Publications</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Research-Data%20Platforms-blue?style=for-the-badge"/>
@@ -39,12 +41,7 @@
 </a>
 </p>
 </p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Industries-Banking%20to%20Public%20Sector-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Global-India%20%7C%20US%20%7C%20UK%20%7C%20Europe%20%7C%20China-black?style=for-the-badge"/>
-</p>
-
+<h3>certification</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Microsoft-Certified-blue?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Azure-Certified-0078D4?style=for-the-badge"/>
@@ -53,21 +50,6 @@
 <img src="https://img.shields.io/badge/MongoDB-Certified-green?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/PMP-Project%20Management-black?style=for-the-badge"/>
 </p>
-
-## My core expertise includes:
-
-**Data Architecture & Data Modelling** (Conceptual, Logical, Physical, Dimensional, OLTP/OLAP)
-**Cloud Platforms:** Azure, Databricks, Snowflake, AWS
-**Data Engineering:** Python, PySpark, Kafka, ADF, SSIS
-**Databases:** Oracle, SQL Server, MySQL, MongoDB, Cassandra
-**Data Warehousing & Lakehouse:** Medallion Architecture, Star/Snowflake Schema
-**Data Governance, Security & Compliance**
-**Performance Tuning & Cost Optimisation**
-**Business Intelligence & Visualisation:** Tableau, Power BI
-industries :Banking,Audit, Retail, Aviation, Energy and Public Sector
-Multi National work Exp: India ,US, UK , China  and europe. 
-Throughout my career, I have led end-to-end data platform implementations, including cloud migrations, legacy modernization, and enterprise data governance frameworks, ensuring high data quality, scalability, and alignment with business goals.
-I am also a Microsoft , Aure , Databrciks and PMP® certified professional, with strong experience in leading cross-functional teams, driving delivery excellence, and aligning technology solutions with business objectives.
 <table>
 <tr>
 <td align="center" width="25%">
