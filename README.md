@@ -1,6 +1,31 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2F80ED&size=22&width=900&lines=Independent+Researcher+%7C+Mentor;Data+Architect+%7C+Technology+Leader;20%2B+Years+in+Enterprise+Data+Platforms;Master%20of%20Technology%20(M.Tech)%20in%20Data%20Science%20from%20BITS,%20Pilani)
 
-# Master of Technology (M.Tech) degree in Data Science & Engineering from Birla Institute of Technology & Science (BITS), Pilani, which strengthens my expertise in data architecture and analytics, machine learning and modern data-driven solutions. I have extensive experience designing and delivering scalable, secure, and high-performance data solutions across industries including Banking, Retail, Aviation, Energy, and Public Sector. Currently, I work as a Data/Solution Architect, leading large-scale cloud transformation and data modernization initiatives.
+<h1 align="center">👋 Hi, I'm Rajesh Kumar Singh</h1>
+<h3 align="center">Independent Researcher | Mentor | Data Architect</h3>
+
+<p align="center">
+💡 20+ years in Data Architecture, Cloud Engineering & Enterprise Platforms  
+</p>
+
+---
+
+## 🧠 About Me
+- 🎓 M.Tech in Data Science & Engineering — BITS Pilani  
+- ☁️ Specializing in **Azure, Databricks, Cloud Data Platforms**  
+- 🤖 Passionate about **AI/ML-driven analytics & optimization**  
+- 🏢 Worked across Banking, Retail, Aviation, Energy & Public Sector  
+- 🚀 Currently leading **large-scale cloud transformation initiatives**
+
+---
+
+## ⚡ Core Expertise
+
+<p align="center">
+<img src="https://img.shields.io/badge/Data%20Architecture-Expert-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Azure%20%7C%20Databricks-Advanced-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20%26%20ML-Production-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Engineering-Scalable-orange?style=for-the-badge"/>
+</p>
 
 ## My core expertise includes:
 
@@ -34,32 +59,6 @@ Open to: <Speaking engagements> <Mentoring >  < Collaboration on data, AI and cl
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=errajeshcs-pixel)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=errajeshcs-pixel)
 
-<h1 align="center">👋 Hi, I'm Rajesh Kumar Singh</h1>
-<h3 align="center">Independent Researcher | Mentor | Data Architect</h3>
-
-<p align="center">
-💡 20+ years in Data Architecture, Cloud Engineering & Enterprise Platforms  
-</p>
-
----
-
-## 🧠 About Me
-- 🎓 M.Tech in Data Science & Engineering — BITS Pilani  
-- ☁️ Specializing in **Azure, Databricks, Cloud Data Platforms**  
-- 🤖 Passionate about **AI/ML-driven analytics & optimization**  
-- 🏢 Worked across Banking, Retail, Aviation, Energy & Public Sector  
-- 🚀 Currently leading **large-scale cloud transformation initiatives**
-
----
-
-## ⚡ Core Expertise
-
-<p align="center">
-<img src="https://img.shields.io/badge/Data%20Architecture-Expert-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Azure%20%7C%20Databricks-Advanced-purple?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI%20%26%20ML-Production-green?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data%20Engineering-Scalable-orange?style=for-the-badge"/>
-</p>
 
 <table>
 <tr>
