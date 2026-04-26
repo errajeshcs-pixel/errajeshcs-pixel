@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/badge/Research-Active-blue?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Mentorship-Universities%20%26%20Talent-green?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Speaking-Engagements-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Mentoring-Professionals-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Mentoring-Professionals-orange?style=for-the-badge"/>
 </p>
 <h3>Key Impacts</h3>
 <p align="center">
@@ -52,9 +52,24 @@ industries :Banking,Audit, Retail, Aviation, Energy and Public Sector
 Multi National work Exp: India ,US, UK , China  and europe. 
 Throughout my career, I have led end-to-end data platform implementations, including cloud migrations, legacy modernization, and enterprise data governance frameworks, ensuring high data quality, scalability, and alignment with business goals.
 I am also a Microsoft , Aure , Databrciks and PMP® certified professional, with strong experience in leading cross-functional teams, driving delivery excellence, and aligning technology solutions with business objectives.
+<table>
+<tr>
+<td align="center" width="25%">
 
+### ⚡ Design Pipelines
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=errajeshcs-pixel)
+
+</td>
+<td align="center" width="25%">
+
+### 🤖 AI Optimization
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=errajeshcs-pixel)
+
+
+</td>
+</tr>
+<table>
+
 
 
 <table>
