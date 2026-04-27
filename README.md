@@ -1,6 +1,9 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2F80ED&size=22&width=900&lines=Independent+Researcher+%7C+Mentor;Data+Architect+%7C+Technology+Leader;20%2B+Years+in+Enterprise+Data+Platforms;Master%20of%20Technology%20(M.Tech)%20in%20Data%20Science%20from%20BITS,%20Pilani)
 
 <h1 align="center"> Hi, I'm Rajesh Kumar Singh</h1>
+<p align="left">
+![Streak](https://github-readme-stats.vercel.app/api/top-langs/?username=errajeshcs-pixel&layout=compact&theme=default)
+ </p>
 <h3 align="center">Independent Researcher | Mentor | Data Architect</h3>
 
 <p align="center">
@@ -94,8 +97,7 @@
 
 
 
-![Streak](https://github-readme-stats.vercel.app/api/top-langs/?username=errajeshcs-pixel&layout=compact&theme=default)
- 
+
 </td>
 </tr>
 <table>
