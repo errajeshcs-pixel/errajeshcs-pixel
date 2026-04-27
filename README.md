@@ -87,7 +87,7 @@
 <tr>
 <td align="center" width="33%">
  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=errajeshcs-pixel&show_icons=true&hide=contribs&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=errajeshcs-pixel&show_icons=true&hide=contribs&theme=default&hide_border=true&count_private=true&cache_seconds=1800)
 
 </td>
 
