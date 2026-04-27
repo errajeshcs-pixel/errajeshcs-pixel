@@ -94,6 +94,10 @@
 
 
 </td>
+</td>
+<td align="center" width="25%">
+![Streak](https://github-readme-stats.vercel.app/api/top-langs/?username=errajeshcs-pixel&layout=compact&theme=default&hide_border=true%22%20height=%22180%22)
+  </td>
 </tr>
 <table>
 
