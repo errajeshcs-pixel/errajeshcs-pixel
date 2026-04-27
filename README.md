@@ -87,20 +87,20 @@
 <tr>
 <td align="center" width="33%">
  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=errajeshcs-pixel&show_icons=true&hide=contribs&theme=default&hide_border=true" height="220")
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=errajeshcs-pixel&show_icons=true&hide=contribs&theme=default)
 
 </td>
 
 <td align="center" width="33%">
 
- ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=errajeshcs-pixel&show_icons=true&theme=default&hide_border=true" height="220")
+ ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=errajeshcs-pixel&show_icons=true&theme=default)
 
 
 </td>
 
 <td align="center" width="33%">
 
- ![Streak](https://github-readme-stats.vercel.app/api/top-langs/?username=errajeshcs-pixel&layout=compact&theme=default&hide_border=true" height="220")
+ ![Streak](https://github-readme-stats.vercel.app/api/top-langs/?username=errajeshcs-pixel&layout=compact&theme=default)
 
 </td>
 
