@@ -2,7 +2,7 @@
 
 <h1 align="center"> Hi, I'm Rajesh Kumar Singh</h1>
 
-![Streak](https://github-readme-stats.vercel.app/api/top-langs/?username=errajeshcs-pixel&layout=compact&theme=default)
+
  
 <h3 align="center">Independent Researcher | Mentor | Data Architect</h3>
 
@@ -99,6 +99,7 @@
 
 
 </td>
+![Streak](https://github-readme-stats.vercel.app/api/top-langs/?username=errajeshcs-pixel&layout=compact&theme=default)
 </tr>
 <table>
 
