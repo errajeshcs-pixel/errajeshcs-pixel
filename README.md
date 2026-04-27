@@ -107,7 +107,6 @@
 </tr>
 <table>
 
-![Streak](https://github-readme-stats.vercel.app/api/top-langs/?username=errajeshcs-pixel&layout=compact&theme=default)
 
 <table>
 <tr>
