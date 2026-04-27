@@ -86,20 +86,12 @@
 <table>
 <tr>
 <td align="center" width="25%">
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=errajeshcs-pixel&show_icons=true&hide=contribs&theme=default)
-
 </td>
 <td align="center" width="25%">
-
-
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=errajeshcs-pixel&show_icons=true&theme=default)
-
-
-
-
+ ![Streak](https://github-readme-stats.vercel.app/api/top-langs/?username=errajeshcs-pixel&layout=compact&theme=default)
 </td>
-
 </tr>
 <table>
 
