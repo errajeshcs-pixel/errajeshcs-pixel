@@ -93,14 +93,14 @@
 
 <td align="center" width="33%">
 
- ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=errajeshcs-pixel&show_icons=true&theme=default)
+ ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=errajeshcs-pixel&show_icons=true&theme=default&hide_border=true&count_private=true&cache_seconds=1800)
 
 
 </td>
 
 <td align="center" width="33%">
 
- ![Streak](https://github-readme-stats.vercel.app/api/top-langs/?username=errajeshcs-pixel&layout=compact&theme=default)
+ ![Streak](https://github-readme-stats.vercel.app/api/top-langs/?username=errajeshcs-pixel&layout=compact&theme=default&hide_border=true&count_private=true&cache_seconds=1800)
 
 </td>
 
