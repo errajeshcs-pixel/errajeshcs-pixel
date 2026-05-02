@@ -86,8 +86,8 @@
 <table>
 <tr>
 <td align="center" width="33%">
- 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=errajeshcs-pixel)](https://github.com/errajeshcs-pixel/github-readme-stats)
+
+ [![GitHub stats](https://github-readme-stats.vercel.app/api?username=errajeshcs-pixel)](https://github.com/errajeshcs-pixel/github-readme-stats)
 
 </td>
 
